@@ -3,5 +3,5 @@ repository for the Jibebe Electric Tricycle 2023 for final year project. Deals w
 electric tricycle.
 
 Done by: 
-Amos Wainaina- MECHANICAL ENGINEERING
-Clement Kipkirui- ELECTRICAL ENGINEERING
+1. Amos Wainaina- MECHANICAL ENGINEERING     
+1. Clement Kipkirui- ELECTRICAL ENGINEERING
